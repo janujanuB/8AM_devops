@@ -1,7 +1,7 @@
 #!/bin/bash
 
-for i in {1..10}
+for i in {1..15}
 do
-	echo "Hello git"
+	echo "Hello git running in jenkins"
 done	
 
